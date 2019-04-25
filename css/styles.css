@@ -1,53 +1,20 @@
-body  {
-
+* {
+  box-sizing: border-box;
 }
 
-.cat-aboutme {
-background-color: yellow;
+.header {
+  background-color: darkslategray;
+  padding: 30px;
+  text-align: center;
+  font-family: Rockwell Extra Bold,Rockwell Bold,monospace;
+  font-size: 35px;
+  color: white;
 }
 
-h1  {
-  font-family: sans-serif;
-  float: centre;
 
-}
-
-img {
-  height: 240px;
-  width: 170px;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-  float: right;
-}
-.sidebar {
-  width: 30%;
-  float: centre;
-  background-color: lime;
-}
-.column {
-    width: 350px;
-    float: left;
-  }
-  .column2 {
-      width: 550px;
-      float: centre;
-    }
-
-
-@media screen and (min-width: 480px) and (max-width: 767px) {
-    body {
-        background-color: black;
-        color: white;
-    }
-}
-@media screen and (min-width: 768px) {
-  body {
-    background-color: yellowgreen;
-  }
-  .column {
-    width: 220px;
-    float: left;
-    padding: 15px;
+@media (max-width: 600px) {
+  nav, article {
+    width: 100%;
+    height: auto;
   }
 }
