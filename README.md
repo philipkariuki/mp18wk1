@@ -1,6 +1,6 @@
 # mp18wk1
 My Portfolio Independent Project
-#### In here is my initial independent project for Moringa School Prep , Current version last updated on 25th April 2019
+#### In here is my initial independent project for Moringa School Prep , Current version last updated on 25th April 2019.
 #### By **Philip Kariuki**
 ## Description
 Initial independent project for Moringa School Prep.
