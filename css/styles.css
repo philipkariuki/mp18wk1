@@ -35,6 +35,17 @@
   padding: 20px;
 }
 
+.article {
+  float: left;
+  padding: 20px;
+  font-family: monaco,Consolas,Lucida Console,monospace;
+  font-size: 22px;
+  color: dodgerblue;
+  width: 53%;
+  background-color: #f1f1f1;
+  height: 520px;
+}
+
 @media (max-width: 600px) {
   nav, article {
     width: 100%;
