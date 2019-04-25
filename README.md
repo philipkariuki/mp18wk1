@@ -13,7 +13,7 @@ There no known bugs at the moment.
 HTML, CSS, have been used on this project.
 ## Support and contact details
 For the completion of this project it would be fine if contributions were made.
-To support me, you can always <a href="https://www.buymeacoffee.com//first-website/">buy me a coffee</a>
+To support me, you can always <a href="https://www.buymeacoffee.com">buy me a coffee</a>
 ## Link to project
 https://philipkariuki.github.io/mp18wk1/
 ## [License](https://github.com/philipkariuki/mp18wk1/blob/master/LICENSE)
