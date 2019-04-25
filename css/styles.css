@@ -46,6 +46,13 @@
   height: 520px;
 }
 
+img {
+  height: 340px;
+  width: 390px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  }
+
 @media (max-width: 600px) {
   nav, article {
     width: 100%;
