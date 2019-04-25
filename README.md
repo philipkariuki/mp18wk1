@@ -7,7 +7,7 @@ Initial independent project for Moringa School Prep.
 ## Setup/Installation Requirements
 Basic git knowledge on how to clone a repo and you are good to go.
 ## Known Bugs
-There no known bugs at the moment.
+There are no known bugs at the moment.
 ## Languages Used
 HTML, CSS, have been used on this project.
 ## Contributors
