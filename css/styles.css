@@ -53,6 +53,14 @@ img {
   border-radius: 4px;
   }
 
+.footer {
+  background-color: #777;
+  padding: 10px;
+  font-size: 30px;
+  text-align: center;
+  color: white;
+  }
+
 @media (max-width: 600px) {
   nav, article {
     width: 100%;
