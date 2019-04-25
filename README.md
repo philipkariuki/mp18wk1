@@ -11,6 +11,8 @@ There is nothing absolutely to do.
 There no known bugs at the moment.
 ## Languages Used
 HTML, CSS, have been used on this project.
+## Contributors
+<a href="https://github.com/philipkariuki">philipkariuki</a>
 ## Support and contact details
 For the completion of this project it would be fine if contributions were made.
 To support me, you can always <a href="https://www.buymeacoffee.com">buy me a coffee</a>
